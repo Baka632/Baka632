@@ -1,4 +1,14 @@
+# Baka632
 ### Hi there 👋
+I am a software developer, currently developing .NET apps.
+- [Live Music](https://github.com/Baka632/Live-Music), a simple UWP music player.
+- [Arknights Resources](https://github.com/Baka632/ArknightsResources), a resource library about Arknights.
+
+Also, I am a Minecraft mod creater, mainly developing Fabric mods.
+- [Ark Additions](https://github.com/Baka632/ark-additions), a mod which adds Arknights contents to your Minecraft world.
+- [ArknightsCraft](https://github.com/Baka632/arknights-craft),a mod which helps you to use skills like Operators in Arknights.
+
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=baka632&layout=compact)
 
 <!--
 **Baka632/Baka632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
