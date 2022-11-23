@@ -2,7 +2,7 @@
 ### Hi there 👋
 I am a software developer, currently developing .NET apps.
 - [Live Music](https://github.com/Baka632/Live-Music), a simple UWP music player.
-- [Arknights Resources](https://github.com/Baka632/ArknightsResources), a resource library about Arknights.
+- [Arknights Resources](https://github.com/ArknightsResources/Home), a resource library about Arknights.
 
 Also, I am a Minecraft mod creater, mainly developing Fabric mods.
 - [Ark Additions](https://github.com/Baka632/ark-additions), a mod which adds Arknights contents to your Minecraft world.
