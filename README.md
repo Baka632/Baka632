@@ -8,7 +8,7 @@ Also, I am a Minecraft mod creater, mainly developing Fabric mods (I am still le
 - [Ark Additions](https://github.com/Baka632/ark-additions), a mod which adds Arknights contents to your Minecraft world. (WIP)
 - [ArknightsCraft](https://github.com/Baka632/arknights-craft),a mod which helps you to use skills like Operators in Arknights. (WIP)
 
-![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=baka632&layout=compact)
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=baka632&layout=compact&hide=html)
 
 ---
 
