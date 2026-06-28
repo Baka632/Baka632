@@ -1,13 +1,16 @@
 # Baka632
+
 ### Hi there 👋
+
 I am a software developer, currently developing .NET apps.
-- [Arknights Story Text](https://github.com/Baka632/ArknightsStoryText.UWP), a story text reader for [Arknights](https://ak.hypergryph.com/) 
+- [Sora Records](https://github.com/Baka632/MonsterSiren.Uwp), a third-party client for [Monster Siren Records](https://monster-siren.hypergryph.com/).
+- [Arknights Story Text](https://github.com/Baka632/ArknightsStoryText.UWP), a story text reader for [Arknights](https://ak.hypergryph.com/).
 - [Live Music](https://github.com/Baka632/Live-Music), a simple UWP music player. (Consider refactoring...)
 - [Arknights Resources](https://github.com/ArknightsResources/Home), a resource library about Arknights. (Consider refactoring...)
 
 Also, I am a Minecraft mod creater, mainly developing Fabric mods (I am still learning it😵‍💫).
 - [Ark Additions](https://github.com/Baka632/ark-additions), a mod which adds Arknights contents to your Minecraft world. (WIP)
-- [ArknightsCraft](https://github.com/Baka632/arknights-craft),a mod which helps you to use skills like Operators in Arknights. (WIP)
+- [ArknightsCraft](https://github.com/Baka632/arknights-craft), a mod which helps you to use skills like Operators in Arknights. (WIP)
 
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=baka632&layout=compact&hide=html)
 
